@@ -6,5 +6,6 @@ Green
 Unicorn
 Yellow
 Red 
+INdigo
 This is a pretty short rainbow
 Wow here comes a unicorn
